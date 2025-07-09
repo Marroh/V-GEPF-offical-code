@@ -1,4 +1,4 @@
-Light-MALib Codes are under the following license:
+V-GEPF Codes are under the following license:
 
                                  Apache License
                            Version 2.0, January 2004

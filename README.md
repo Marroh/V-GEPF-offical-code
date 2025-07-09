@@ -1,6 +1,6 @@
 # V-GEPF: Vision-Based Generic Potential Function for Policy Alignment in Multi-Agent Reinforcement Learning
 
-[![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](./LICENSE)
+[![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
 
 This repository contains the official implementation of the AAAI 2025 paper "Vision-Based Generic Potential Function for Policy Alignment in Multi-Agent Reinforcement Learning". This work introduces **V-GEPF**, a novel framework that leverages Vision-Language Models (VLMs) to generate potential-based rewards for complex multi-agent reinforcement learning tasks in the Google Research Football (GRF) environment.
